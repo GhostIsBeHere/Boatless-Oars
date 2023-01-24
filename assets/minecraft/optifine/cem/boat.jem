@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 64],
+	"models": [
+		{
+			"part": "paddle_left",
+			"id": "paddle_left",
+			"invertAxis": "xy",
+			"translate": [9, -11, 3],
+			"rotate": [-124, -50, 165],
+			"boxes": [
+				{"coordinates": [-10, 9, -8, 2, 2, 18], "textureOffset": [62, 0]},
+				{"coordinates": [-8.999, 8, 5, 1, 6, 7], "textureOffset": [62, 0]}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"this.ry": 0,
+					"this.rz": 0
+				}
+			]
+		},
+		{
+			"part": "paddle_right",
+			"id": "paddle_right",
+			"invertAxis": "xy",
+			"translate": [-9, -11, 3],
+			"rotate": [-124, 50, -165],
+			"boxes": [
+				{"coordinates": [8, 9, -8, 2, 2, 18], "textureOffset": [62, 20]},
+				{"coordinates": [7.999, 8, 5, 1, 6, 7], "textureOffset": [62, 20]}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"this.ry": 0,
+					"this.rz": 0
+				}
+			]
+		}
+	]
+}
