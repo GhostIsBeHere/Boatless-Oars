@@ -6,4 +6,4 @@ I decided that was a bit too boring, so I made this. Bamboo rafts are raftless i
 Optifine Optional (I'm not sure what it changes but it did it)
 
 Have fun with my cursed pack!
-Get it on [Modrinth](https://modrinth.com/resourcepack/boatless-oars/settings/description)
+Get it on [Modrinth](https://modrinth.com/resourcepack/boatless-oars/settings/description)!
